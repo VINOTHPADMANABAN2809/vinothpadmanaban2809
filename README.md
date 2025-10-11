@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinothpadmanaban2809" alt="vinothpadmanaban2809" /></a> </p>
 
-- 🔭 I’m currently working on **WanderIndia**
+- 🔭 I’m currently working on **WanderIndia - Travel Partner**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **RhythmNest**
+- 🤝 I’m looking for help with **RhythmNest - A custom Music Player**
 
 - 💬 Ask me about **Html, Css, Git< SQL**
 
