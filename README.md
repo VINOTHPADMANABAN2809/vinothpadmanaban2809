@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **RhythmNest - A custom Music Player**
 
-- 💬 Ask me about **Html, Css, Git< SQL**
+- 💬 Ask me about **Html, Css, Git, SQL**
 
 - 📫 How to reach me **vinothkumarpadmanabhan@gmail.com**
 
